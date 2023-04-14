@@ -1,0 +1,36 @@
+@import 'reset';
+
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template: minmax(100px, auto) 1fr minmax(70px, auto) / 1fr;
+    grid-template-areas: 
+        "header1"
+        "main"
+        "footer";
+}
+h1 {
+    font-size: 50px;
+    line-height: 1;
+    margin-bottom: 50px;
+}
+h2 {
+    font-size: 30px;
+    line-height: 1;
+    margin-bottom: 20px;
+    color: red;
+}
+.hide-show {
+    display: none
+}
+@import 'registr';
+@import 'header';
+@import 'registr';
+@import 'main';
+@import 'footer';
+@import 'form';
+@import 'aside';
+@import 'carousel';
+@import 'userProfile';
+@import 'users';
+

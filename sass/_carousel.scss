@@ -1,0 +1,37 @@
+.slide {
+    position: absolute;
+    opacity: 0;
+    inset: 0;
+}
+.slide[data-active] {
+    opacity: 1;
+    z-index: 1;
+}
+.carousel-button {
+    position: absolute;
+    z-index: 2;
+    font-size: 4rem;
+    background: none;
+    border: none;
+    top: 50%;
+    color: rgba(112, 230, 16, 0.5);
+    cursor: pointer;
+    border-radius: .25rem;
+    padding: 0 .5rem;
+    background-color: rgba(0, 0, 0, .2);
+}
+
+.carousel-button:hover,
+.carousel-button:focus {
+    color: rgb(189, 17, 17);
+    background-color: rgba(0, 0, 0, .2);
+}
+.carousel-button.next {
+    right: 1rem;
+}
+.carousel-button.prev {
+    left: 1rem;
+}
+//carousel2
+
+

@@ -1,0 +1,32 @@
+.footer {
+    background-color: #77608d;
+    display: grid;
+    grid-area: footer;
+    padding: 15px;
+    align-items: center;
+    grid-template-areas: 1fr / 1fr minmax(auto, 300px) minmax(auto, 1100px) 1fr;    
+}
+
+
+@media (min-width: 550px) {
+    .footer-copy {
+        grid-column: 2 / 3;
+    }
+    .footer-text {
+        text-align: right;
+        grid-column: 3 / 4;
+    } 
+}
+
+@media (max-width: 550px) {
+    .footer {
+        grid-template: 1fr 1fr / 1fr;
+        text-align: center;
+    }
+    .footer-copy {
+        order: 2;
+    }
+    .footer-text {
+        order: 1;
+    }
+}

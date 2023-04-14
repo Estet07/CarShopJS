@@ -1,0 +1,176 @@
+{
+  "users": [
+    {
+      "email": "admin@mail.ru",
+      "password": "$2a$10$1uDe0cHD1e6Bpcd1lOSCYenvoF7A.xuxn5xhIHIIUaV6t5ZuKzWPu",
+      "img": "https://png.pngtree.com/element_our/png_detail/20181206/users-vector-icon-png_260862.jpg",
+      "name": "admin",
+      "gender": "male",
+      "age": "23",
+      "role": "admin",
+      "id": 777
+    },
+    {
+      "email": "dasda@mail.ru",
+      "password": "$2a$10$k6l9HqYUpw9z5ERD.ibp7.OKzx9aO8DREs7sBzJ57spYN2ZpuMDj2",
+      "img": "https://png.pngtree.com/element_our/png_detail/20181206/users-vector-icon-png_260862.jpg",
+      "name": "Ivan",
+      "gender": "male",
+      "age": "22",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "email": "admin3@mail.ru",
+      "password": "$2a$10$TnpdYUwYqThmgfYDhZHzG.9Jqd1Q69gKtMZEfud6zYJoq9vFKx3RW",
+      "img": "https://png.pngtree.com/element_our/png_detail/20181206/users-vector-icon-png_260862.jpg",
+      "name": "admin3",
+      "gender": "male",
+      "age": "22",
+      "role": "admin",
+      "id": 778
+    },
+    {
+      "email": "dasda1@mail.ru",
+      "password": "$2a$10$k6l9HqYUpw9z5ERD.ibp7.OKzx9aO8DREs7sBzJ57spYN2ZpuMDj2",
+      "img": "https://png.pngtree.com/element_our/png_detail/20181206/users-vector-icon-png_260862.jpg",
+      "name": "Ivan",
+      "gender": "male",
+      "age": "22",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "dasda2@mail.ru",
+      "password": "$2a$10$k6l9HqYUpw9z5ERD.ibp7.OKzx9aO8DREs7sBzJ57spYN2ZpuMDj2",
+      "img": "https://png.pngtree.com/element_our/png_detail/20181206/users-vector-icon-png_260862.jpg",
+      "name": "Ivan",
+      "gender": "male",
+      "age": "22",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "dasda3@mail.ru",
+      "password": "$2a$10$k6l9HqYUpw9z5ERD.ibp7.OKzx9aO8DREs7sBzJ57spYN2ZpuMDj2",
+      "img": "https://png.pngtree.com/element_our/png_detail/20181206/users-vector-icon-png_260862.jpg",
+      "name": "Iven",
+      "gender": "male",
+      "age": "22",
+      "role": "user",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "img": "https://za-rulem.org/wp-content/uploads/2014/10/krutye-ta4ki-Hennessey-Venom-GT-1024x506.png",
+      "name": "Porshe",
+      "model": "блаблабла",
+      "price": 234234,
+      "color": "black",
+      "author": "1",
+      "data": "27.05.2013",
+      "id": 10
+    },
+    {
+      "img": "https://s11.favim.com/orig/7/793/7936/79366/cars-cool-cars-black-car-Favim.com-7936673.jpg",
+      "name": "Mercedes-Benz",
+      "model": "блаблабла",
+      "price": 300000,
+      "color": "black",
+      "author": "1",
+      "data": "25.02.2023",
+      "id": 12
+    },
+    {
+      "img": "https://4.bp.blogspot.com/-cn_qconT7eI/VjHDkVZWtHI/AAAAAAAAL0s/lhQC_PQRvQg/s1600/157.jpg",
+      "name": "BMW",
+      "model": "блаблабла",
+      "price": 3454353,
+      "color": "blue",
+      "author": "1",
+      "data": "22.02.2023",
+      "id": 13
+    },
+    {
+      "img": "https://sportishka.com/uploads/posts/2021-12/1639152249_1-sportishka-com-p-klevie-tachki-sport-krasivo-foto-1.jpg",
+      "name": "Bugatti",
+      "model": "блаблабла",
+      "price": 5555555,
+      "color": "blue",
+      "author": "1",
+      "data": "23.02.2023",
+      "id": 14
+    },
+    {
+      "img": "https://celes.club/uploads/posts/2022-06/1655441963_20-celes-club-p-krutie-tachki-dlya-patsanov-mashini-krasiv-25.jpg",
+      "name": "BMW",
+      "model": "блаблабла",
+      "price": 6666555,
+      "color": "white",
+      "author": 777,
+      "data": "07.02.2023",
+      "id": 15
+    },
+    {
+      "img": "https://celes.club/uploads/posts/2022-06/1655441963_20-celes-club-p-krutie-tachki-dlya-patsanov-mashini-krasiv-25.jpg",
+      "name": "BMW",
+      "model": "блаблабла",
+      "price": 6666555,
+      "color": "white",
+      "author": 777,
+      "data": "02.02.2023",
+      "id": 16
+    },
+    {
+      "img": "https://celes.club/uploads/posts/2022-06/1655441963_20-celes-club-p-krutie-tachki-dlya-patsanov-mashini-krasiv-25.jpg",
+      "name": "BMW",
+      "model": "блаблабла",
+      "price": 6666555,
+      "color": "white",
+      "author": 777,
+      "data": "20.02.2023",
+      "id": 17
+    },
+    {
+      "name": "qwerty",
+      "model": "123123",
+      "price": 1123,
+      "color": "#000000",
+      "img": "https://www.indigoautogroup.com/inventoryphotos/3238/scfrmfcw3pgm11796/ip/13.jpg?height=750&bg-color=FFFFFF",
+      "author": 777,
+      "data": "21.02.2023",
+      "id": 18
+    },
+    {
+      "name": "test",
+      "model": "test",
+      "price": 123,
+      "color": "#000000",
+      "img": "https://www.indigoautogroup.com/inventoryphotos/3238/scfrmfcw3pgm11796/ip/13.jpg?height=750&bg-color=FFFFFF",
+      "author": 777,
+      "data": "27.02.2023",
+      "id": 19
+    },
+    {
+      "name": "qwerty",
+      "model": "123123",
+      "price": 123,
+      "color": "#000000",
+      "img": "https://www.indigoautogroup.com/inventoryphotos/3238/scfrmfcw3pgm11796/ip/13.jpg?height=750&bg-color=FFFFFF",
+      "author": 1,
+      "data": "03.03.2023",
+      "id": 20
+    },
+    {
+      "name": "йцуйукцу",
+      "model": "123123",
+      "price": 123123,
+      "color": "#000000",
+      "img": "https://www.indigoautogroup.com/inventoryphotos/3238/scfrmfcw3pgm11796/ip/13.jpg?height=750&bg-color=FFFFFF",
+      "author": 4,
+      "data": "06.03.2023",
+      "id": 21
+    }
+  ]
+}
